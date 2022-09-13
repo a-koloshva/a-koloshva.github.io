@@ -78,54 +78,54 @@ navItems.forEach((navItem) => {
 });
 
 // Scroll reveal
-// ScrollReveal({
-//   reset: true,
-//   distance: '60px',
-//   duration: 2500,
-//   delay: 100,
-// });
+ScrollReveal({
+  reset: true,
+  distance: '60px',
+  duration: 2500,
+  delay: 100,
+});
 
-// ScrollReveal().reveal('.home .info h2, .section-title-01, .section-title-02 ', {
-//   delay: 500,
-//   origin: 'left',
-// });
-// ScrollReveal().reveal('.home .info h3, .home .info p, about-info .btn ', {
-//   delay: 600,
-//   origin: 'right',
-// });
-// ScrollReveal().reveal('.home .info .btn ', {
-//   delay: 700,
-//   origin: 'bottom',
-// });
-// ScrollReveal().reveal('.media-icons i, .contact-left li ', {
-//   delay: 500,
-//   origin: 'left',
-//   interval: 200,
-// });
-// ScrollReveal().reveal('.home-img, .about-img, .follow ', {
-//   delay: 500,
-//   origin: 'bottom',
-// });
-// ScrollReveal().reveal('.about .description, .copyright ', {
-//   delay: 600,
-//   origin: 'right',
-// });
-// ScrollReveal().reveal('.about, .scroll-down ', {
-//   delay: 500,
-//   origin: 'right',
-//   interval: 200,
-// });
-// ScrollReveal().reveal('.skills-description, .info ', {
-//   delay: 700,
-//   origin: 'left',
-// });
-// ScrollReveal().reveal('.education, .portfolio .img-card ', {
-//   delay: 800,
-//   origin: 'bottom',
-//   interval: 200,
-// });
-// ScrollReveal().reveal('.footer, .group ', {
-//   delay: 500,
-//   origin: 'top',
-//   interval: 200,
-// });
+ScrollReveal().reveal('.home .info h2, .section-title-01, .section-title-02 ', {
+  delay: 500,
+  origin: 'left',
+});
+ScrollReveal().reveal('.home .info h3, .home .info p, about-info .btn ', {
+  delay: 600,
+  origin: 'right',
+});
+ScrollReveal().reveal('.home .info .btn ', {
+  delay: 700,
+  origin: 'bottom',
+});
+ScrollReveal().reveal('.media-icons i, .contact-left li ', {
+  delay: 500,
+  origin: 'left',
+  interval: 200,
+});
+ScrollReveal().reveal('.home-img, .about-img, .follow ', {
+  delay: 500,
+  origin: 'bottom',
+});
+ScrollReveal().reveal('.about .description, .copyright ', {
+  delay: 600,
+  origin: 'right',
+});
+ScrollReveal().reveal('.about, .scroll-down ', {
+  delay: 500,
+  origin: 'right',
+  interval: 200,
+});
+ScrollReveal().reveal('.skills-description, .info ', {
+  delay: 700,
+  origin: 'left',
+});
+ScrollReveal().reveal('.education, .portfolio .img-card ', {
+  delay: 800,
+  origin: 'bottom',
+  interval: 200,
+});
+ScrollReveal().reveal('.footer, .group ', {
+  delay: 500,
+  origin: 'top',
+  interval: 200,
+});
